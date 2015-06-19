@@ -1,0 +1,8 @@
+c:\users\豪雄\documents\visual studio 2013\Projects\RSAprotection\RSAprotection\bin\Debug\RSAprotection.exe.config
+c:\users\豪雄\documents\visual studio 2013\Projects\RSAprotection\RSAprotection\bin\Debug\RSAprotection.exe
+c:\users\豪雄\documents\visual studio 2013\Projects\RSAprotection\RSAprotection\bin\Debug\RSAprotection.pdb
+c:\users\豪雄\documents\visual studio 2013\Projects\RSAprotection\RSAprotection\obj\Debug\RSAprotection.Properties.Resources.resources
+c:\users\豪雄\documents\visual studio 2013\Projects\RSAprotection\RSAprotection\obj\Debug\RSAprotection.csproj.GenerateResource.Cache
+c:\users\豪雄\documents\visual studio 2013\Projects\RSAprotection\RSAprotection\obj\Debug\RSAprotection.exe
+c:\users\豪雄\documents\visual studio 2013\Projects\RSAprotection\RSAprotection\obj\Debug\RSAprotection.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\RSAprotection\RSAprotection\obj\Debug\RSAprotection.csprojResolveAssemblyReference.cache
